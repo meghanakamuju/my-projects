@@ -1,0 +1,188 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.my-project-main-background {
+    background-color: white;
+    height: 100vh;
+    text-align: center;
+}
+
+.my-project-image {
+    height: 250px;
+    width: 350px;
+    margin-top: 25px;
+}
+
+.my-project-main-heading {
+    font-family: "bree serif";
+    font-size: 30px;
+    color: #183b56;
+}
+
+.my-project-paragraph {
+    font-family: "bree serif";
+    font-size: 12px;
+    color: #615e7c;
+}
+
+.my-project-sub-images {
+    width: 160px;
+    height: 100px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+
+.news-page-background {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.news-page-card {
+    background-color: white;
+    padding: 18px;
+    border-top-left-radius: 18px;
+    border-top-right-radius: 18px;
+}
+
+.news-page-heading {
+    font-family: "roboto";
+    font-size: 24px;
+    font-weight: bold;
+    color: #323f4b;
+}
+
+.news-page-paragraph {
+    font-family: "roboto";
+    color: #7b8794;
+}
+
+.news-page-sub-button {
+    margin-left: 10px;
+}
+
+.image {
+    background-image: url(" https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/foodbg.png");
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+
+}
+
+.main-heading {
+    font-family: "breeserif";
+    color: #323f4b;
+    font-size: 48px;
+
+}
+
+.paragraph {
+    font-family: "roboto";
+    color: #323f4b;
+    font-weight: bold;
+}
+
+.para {
+    background-color: #f6c56e;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    padding: 25px;
+}
+
+.meals-button {
+    border-radius: 15px;
+    height: 40px;
+    width: 120px;
+}
+
+.restaurent-page-button {
+    margin-left: 10px;
+}
+
+.diwali-top-section-background {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png");
+    height: 30vh;
+    background-size: cover;
+}
+
+.diwali-top-section-main {
+    color: white;
+    font-family: "caveat";
+    width: 230px;
+    padding: 20px;
+    font-size: 40px;
+
+}
+
+.diwali-bottom-section {
+    background-color: #e6f6ff;
+    padding: 20px;
+
+}
+
+.diwali-bottom-main {
+    font-family: "roboto";
+    text-align: center;
+    font-size: 20px;
+}
+
+.diwali-bottom-card {
+    background-color: white;
+    border-radius: 10px;
+    width: 140px;
+    text-align: center;
+    margin: 10px;
+
+}
+
+.diwali-bottom-para {
+    font-family: "caveat";
+    text-align: center;
+}
+
+.diwali-bottom-image {
+    height: 100px;
+    width: 100px;
+
+}
+
+.nani {
+    text-align: center;
+    padding: 10px;
+}
+
+.advanced-technologies-background {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png");
+    background-size: cover;
+    height: 100vh;
+    text-align: center;
+}
+
+.advanced-technologies-card {
+    background-color: white;
+    padding: 15px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.advanced-technologies-heading {
+    text-align: left;
+    color: #5752ab;
+    font-family: "bree serif";
+    font-size: 28px;
+}
+
+.advanced-technologies-paragraph {
+    font-family: "roboto";
+    font-weight: bold;
+}
+
+.advanced-technologies-button {
+    background-color: #5752ab;
+    color: white;
+    border-width: 0px;
+    padding: 5px;
+    border-radius: 5px;
+    width: 100px;
+    height: 38px;
+    margin: 10px;
+}
